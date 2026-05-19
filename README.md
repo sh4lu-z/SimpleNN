@@ -6,9 +6,6 @@ This repository serves as a hands-on learning project to understand the core dif
 
 ---
 
-## 📸 Screenshots & Visuals
-*(Add your VS Code Colab integration screenshots here to make your repository look awesome on GitHub!)*
-
 ![VS Code Colab Integration](./SimpleNN.png)
 
 ---
