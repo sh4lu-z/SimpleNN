@@ -6,7 +6,7 @@ This repository serves as a hands-on learning project to understand the core dif
 
 ---
 
-![VS Code Colab Integration](./SimpleNN.png)
+![SimpleNN](./src/SimpleNN.png)
 
 ---
 
@@ -74,3 +74,8 @@ Both classifiers are trained on a curated corpus of **100 annotated reviews** (5
 - Expand the dataset to include multi-class emotions (Neutral, Angry, Excited).
 - Integrate modern transformer models like **DistilBERT** for state-of-the-art accuracy.
 - Build a lightweight web API using **FastAPI** to serve real-time inferences.
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it! See the [LICENSE](LICENSE) file for more details.
