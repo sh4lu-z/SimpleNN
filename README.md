@@ -1,4 +1,5 @@
-# 🧠 SimpleNN - Sentiment Analysis Sandbox (Learning Playground)
+# 🧠 SimpleNN - Sentiment Analysis Sandbox 
+<center>(Learning Playground)</center>
 
 An educational, beginner-friendly sandbox designed to compare traditional Machine Learning and Deep Learning approaches for sentiment classification (Positive vs. Negative). 
 
