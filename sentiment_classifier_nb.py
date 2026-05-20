@@ -2,8 +2,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 import numpy as np
 
-# Insert your 100 sentences and Labels here
-# Our small dataset (Training Data - 100 items)
+# Our small dataset 
 texts = [
     # --- Positive Reviews (50) ---
     "Highly recommend this item to everyone",
